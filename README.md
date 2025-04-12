@@ -53,7 +53,8 @@ admin.site.register(Employee,EmployeeAdmin)
 ## OUTPUT
 
 ![alt text](<Screenshot 2025-04-12 201342.png>)
-![alt text](<Screenshot 2025-04-12 201809-1.png>)
+![alt text](<Screenshot 2025-04-12 201809.png>)
+
 
 
 ## RESULT
