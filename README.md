@@ -54,8 +54,9 @@ admin.site.register(Movie,MovieAdmin)
 
 ## OUTPUT
 
-![alt text](<Screenshot 2025-04-17 100243.png>)
-![alt text](<Screenshot 2025-04-17 100221.png>)
+![Screenshot 2025-04-17 100243](https://github.com/user-attachments/assets/57be7e61-f0ad-4e3f-838a-2742a7f83392)
+![Screenshot 2025-04-17 100221](https://github.com/user-attachments/assets/ea20d7cf-c779-438d-b301-2f657d08cf9c)
+
 
 
 
